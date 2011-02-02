@@ -25,7 +25,7 @@ int main(void) {
     puts("3: Producao");
     puts("q: Sair");
     puts("\n");
-    printf("escolha [1-5]: ");
+    printf("escolha [1-3]: ");
     scanf("%d",&choice);
 
     change(choice, &file_name);
