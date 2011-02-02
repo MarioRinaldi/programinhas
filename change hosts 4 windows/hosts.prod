@@ -1,0 +1,13 @@
+## 
+## host prod
+##
+
+127.0.0.1       localhost
+
+# Publicadores HOMOL
+172.18.210.21  orange.homol.ir7.com.br      # RecordOutros
+172.18.210.22  black.homol.ir7.com.br         # RecordProgramas
+172.18.210.23  red.homol.ir7.com.br            # R7
+
+# Publicadores DEV
+10.110.0.123    orange.dev.ir7.com.br red.dev.ir7.com.br

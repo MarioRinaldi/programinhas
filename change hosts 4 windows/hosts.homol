@@ -1,0 +1,17 @@
+##
+## hosts homol
+##
+
+127.0.0.1       localhost
+
+# Varnish acesso aos portais
+172.18.210.12  www.r7.com noticias.r7.com esportes.r7.com entretenimento.r7.com rederecord.r7.com videos.r7.com
+172.18.210.12  s1.r7.com i1.r7.com sc.r7.com im.r7.com
+
+# Publicadores HOMOL
+172.18.210.21  orange.homol.ir7.com.br      # RecordOutros
+172.18.210.22  black.homol.ir7.com.br         # RecordProgramas
+172.18.210.23  red.homol.ir7.com.br            # R7
+
+# Publicadores DEV
+10.110.0.123    orange.dev.ir7.com.br red.dev.ir7.com.br
